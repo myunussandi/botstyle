@@ -21,7 +21,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/beniismael/botstyle.git
+> git clone https://github.com/myunussandi/botstyle.git
 > cd botstyle
 ```
 
