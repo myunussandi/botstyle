@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Benniismae",
+  "author": "Yunus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beniismael/botstyle.git"
+    "url": "https://github.com/myunussandi/botstyle.git"
   },
   "bugs": {
-    "url": "https://github.com/beniismael/botstyle/issues"
+    "url": "https://github.com/myunussandi/botstyle/issues"
   },
-  "homepage": "https://github.com/benniismael/botstyle",
+  "homepage": "https://github.com/myunussandi/botstyle",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.1.0",
