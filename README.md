@@ -22,7 +22,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/myunussandi/botstyle.git
-> cd botstyle
+> cd yunus
 ```
 
 Install the dependencies:
